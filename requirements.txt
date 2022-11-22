@@ -1,5 +1,5 @@
 asgiref==3.2.7
 Django==3.0.5
-Pillow==5.2.0
+Pillow==9.3.0
 SQLAlchemy==1.2.11
 sqlparse==0.3.1
